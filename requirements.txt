@@ -1,3 +1,4 @@
 this is chat applicatin
 emoji
 type
+darkmode
